@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+
+<html lang="en">
+<head>
+<style>
+.box1{
+  background-color: blue;
+  display: inline
+  ;
+}
+.box2{
+  background-color: red; 
+}
+.box3{
+  background-color: green;
+  display: inline;
+}
+</style>
+</head>
+<body>
+
+<h1 class="box1">THE TIME OF INDIA</h1>
+
+<p class="box2">Former India off-spinner Ravichandran Ashwin has named his four favourites for the upcoming IPL season, notably leaving out his former franchise Chennai Super Kings. His selections come shortly after the IPL mini-auction held at the Etihad Arena in Abu Dhabi.</p>
+<p class="box3">Ashwin placed five-time champions Mumbai Indians.</p>
+
+<div>
+  <ul>
+    <li>Best player</li>
+     <li>All-rounder</li>
+      <li>300 wk</li>
+       <li>In tamilnadu</li>
+  </ul>
+</div>
+<p>outh Africa are set to tour India for the first time since 2022, marking an eagerly anticipated bilateral series. This visit will kick off with Tests, but the tour promises a full-fledged cricketing carnival featuring Tests, ODIs, and T20Is. The last time the Proteas played a Test series in India was in October 2019, where India dominated, winning.</p>
+</body>
+</html>
